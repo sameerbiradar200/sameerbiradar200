@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Socials:-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-biradar-b6a653315/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white)](https://sameer-biradar-portfolio.vercel.app/)
 
